@@ -1,0 +1,1 @@
+Please put the file glove.6B.50d.txt in this directory
